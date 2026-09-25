@@ -239,4 +239,4 @@ This repository serves as the official landing page for Fhotoroom HDR. The softw
 **Get the most recent version of Fhotoroom HDR today!**
 
 ---
-**Last updated:** 2026-09-25 12:27:16 UTC
+**Last updated:** 2026-09-25 17:39:15 UTC
